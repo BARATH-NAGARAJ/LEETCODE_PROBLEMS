@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
