@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -38,5 +39,6 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
