@@ -1,1 +1,16 @@
 # LEETCODE_PROBLEMS
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+<!---LeetCode Topics End-->
