@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
