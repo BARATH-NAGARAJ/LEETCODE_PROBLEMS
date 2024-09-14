@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0792-binary-search) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
