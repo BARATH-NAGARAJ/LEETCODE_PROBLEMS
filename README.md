@@ -11,6 +11,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0792-binary-search) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0258-add-digits) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
 | ------- |
@@ -62,4 +64,12 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
