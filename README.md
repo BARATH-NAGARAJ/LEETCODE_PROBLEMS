@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
+| [0539-minimum-time-difference](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0539-minimum-time-difference) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0792-binary-search) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [0539-minimum-time-difference](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0539-minimum-time-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -32,6 +34,7 @@
 | [0069-sqrtx](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0258-add-digits) |
+| [0539-minimum-time-difference](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## String
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
