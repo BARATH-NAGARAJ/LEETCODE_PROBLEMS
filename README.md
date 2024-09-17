@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +80,9 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0920-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
