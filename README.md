@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/BARATH-NAGARAJ/LEETCODE_PROBLEMS/tree/master/0258-add-digits) |
