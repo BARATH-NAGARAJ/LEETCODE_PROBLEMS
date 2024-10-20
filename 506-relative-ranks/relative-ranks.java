@@ -1,50 +1,44 @@
 class Solution {
     public String[] findRelativeRanks(int[] score) {
-        int [] sorted=new int [score.length];
-        String [] ans=new String [score.length];
-        for(int i=0;i<score.length;i++){
-            sorted[i]=score[i];
-        }
-        Arrays.sort(sorted);
-        int j=1;
-        for(int i=score.length-1;i>=0;i--){
-            int place=score.length-binarySearch(sorted,score[i]);
-            if(place==1){
-                ans[i]="Gold Medal";
+        String[] answer=new String[score.length];
+        int[] arrcopy=score.clone();
+        Arrays.sort(arrcopy);
+        int n=score.length;
+        for(int i=n-1;i>=0;i--){
+            int ans = n - BinarySearch(arrcopy, score[i]); 
+            if(ans==1){
+                answer[i]="Gold Medal";
             }
-            else if(place==2){
-                ans[i]="Silver Medal";
+            else if(ans==2){
+                answer[i]="Silver Medal";
             }
-            else if(place==3){
-                ans[i]="Bronze Medal";
+            else if(ans==3){
+                answer[i]="Bronze Medal";
             }
             else{
-                ans[i]=String.valueOf(place);
+                answer[i] = String.valueOf(ans);
             }
-        }
-        return ans;
-    }
 
-    public int binarySearch(int[] arr, int target) {
-        int low = 0;
-        int high = arr.length - 1;
-        
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            
-            // Check if the middle element is the target
-            if (arr[mid] == target) {
-                return mid; // Found the target, return its index
-            } else if (arr[mid] < target) {
-                // If target is greater, ignore left half
-                low = mid + 1;
-            } else {
-                // If target is smaller, ignore right half
-                high = mid - 1;
-            }
         }
-        
-        // Target not found in the array
-        return -1;
+        return answer;
     }
-}
+        public static int BinarySearch(int[] score,int target){
+            int low=0;
+            int high=score.length-1;
+            while(low<=high){
+                int mid=low+(high-low)/2;
+                if(score[mid]==target){
+                    return mid;
+                }
+                else if(score[mid]<target){
+                    low=mid+1;
+                }
+                else {
+                    high=mid-1;
+                }
+            }
+            return -1;
+        }
+
+        }
+    
